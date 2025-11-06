@@ -1,91 +1,100 @@
-# 👋 Olá — eu sou o Lucas
+<!-- Banner opcional - podemos criar um para você com seu nome, CTA e cores da sua marca -->
+<!-- <img width="100%" src="./banner.png" alt="Lucas - Marketing Digital"> -->
 
-**🎯 Trabalho com Marketing digital**
+# 👋 Ei! Eu sou o Lucas
 
-Sou Lucas — profissional focado em marketing digital, com interesse em dados, automação, criação de conteúdo e performance. Aqui no GitHub compartilho scripts, automações e projetos que ajudam a medir e otimizar funis, campanhas e presença online.
+**Estratégia | Automação | Performance**  
+Profissional de marketing digital focado em crescimento real: mais clientes, mais receita e menos achismo. Aqui você encontra projetos práticos com automação, dados e integração entre plataformas (Ads, Analytics, CRM…).
 
 ---
 
+### 🚀 O que eu faço
+- Campanhas orientadas por dados  
+- Criação e otimização de funis  
+- Automação de processos (Zapier, Make, APIs)  
+- Dashboards e análises de performance  
+- Growth e conteúdo para redes sociais
+
+---
+
+### 📬 Conexões
 <p align="left">
-  <a href="https://github.com/SEU_GITHUB">
-    <img alt="Perfil GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:SEU_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Contato-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/SEU_INSTAGRAM">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/@SEU_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/SEU_CANAL">
-    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧾 Sobre este perfil
-- **Nome:** Lucas  
-- **Atuação:** Marketing digital — automação, análise de performance, criação de conteúdo e growth.  
-- **Objetivo no GitHub:** publicar automações, dashboards, exemplos de integração API (ads, analytics), templates de relatórios e scripts para otimização de campanhas.
+## 🛠️ Ferramentas que uso no dia a dia
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="35" src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,git,github" />
+  <img height="35" src="https://skillicons.dev/icons?i=postgres,docker" />
+</div>
 
-## 🛠️ Tecnologias & Skills
-> Ferramentas e linguagens que uso para resolver problemas de marketing e automação.
-
-- **Linguagens:** Python, JavaScript (Node.js)
-- **Ferramentas:** Google Analytics / GA4, Google Ads, Meta Ads, Zapier / Make, Google Sheets, APIs REST
-- **Data / Infra:** BigQuery, PostgreSQL, Docker (para deploy simples)
-- **Outros:** Git, CI (GitHub Actions), Visualização (Tableau, Looker Studio)
-
----
-
-## 📂 Principais projetos
-- **dash-campanhas** — templates de dashboard em BigQuery + Looker Studio para comparar canais e LTV.  
-- **ads-automation** — scripts Python para automação de regras e extração de relatórios.  
-- **relatorio-gsheet** — integração que automatiza geração de relatórios semanais para clientes.
-
-*(Crie pastas com esses nomes e adicione README específicos por projeto.)*
+#### + Marketing e Dados:
+✅ Google Analytics · ✅ GA4 · ✅ Google Ads · ✅ Meta Ads  
+✅ Looker Studio · ✅ BigQuery · ✅ Zapier/Make  
+✅ SEO e CI/CD para deploys simples
 
 ---
 
 ## 📊 Estatísticas do GitHub
+> Esses cards vão atualizar automaticamente conforme seus commits e linguagens reais.
 
-<!-- GitHub Readme Stats -->
-<p align="left">
-  <img alt="Lucas - GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=dark&count_private=true" />
-  &nbsp;
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=dark" />
+<p align="center">
+  <img height="150em"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=midnight-purple"/>
 </p>
 
 ---
 
-## 🔎 Como personalizar (passo a passo rápido)
-1. Renomeie o repo para o mesmo nome do seu usuário GitHub (ex.: `SEU_GITHUB`).
-2. Substitua `SEU_GITHUB` em todas URLs / imagens pela sua username.
-3. Troque `SEU_EMAIL`, `SEU_LINKEDIN`, `SEU_INSTAGRAM`, `SEU_SITE`, `SEU_CANAL` pelos links reais.
-4. Se quiser os cards em outro tema, visite: https://github.com/anuraghazra/github-readme-stats (ex.: `&theme=radical`).
-5. Atualize a seção "Principais projetos" com links para cada repositório.
+## 📂 Projetos em destaque
+📌 Adicione links reais conforme publicar os repositórios
+
+| Projeto | O que ele faz | Status |
+|--------|----------------|:-----:|
+| **Ads Automation** | Relatórios automáticos + otimização | 🚧 |
+| **Dash Performance** | Indicadores e comparação entre canais | 🚧 |
+| **CRM Connector** | Integra Ads + Analytics + CRM | 🚧 |
+
+> Posso criar junto com você e deixar tudo rodando bonitinho ✅
 
 ---
 
-## 🧭 Sugestões rápidas para deixar igual à imagem
-- Use **badges coloridos** (shields.io) para contadores de inscritos/visualizações (YouTube) e seguidores (Instagram). Exemplo:
-  - `https://img.shields.io/youtube/channel/subscribers/UCOD...` (alguns badges requerem API keys; o Shields.io tem endpoints públicos para YouTube em alguns casos).
-- Use **github-readme-stats** para gerar os painéis de "Estatísticas" e "Top Languages" com `theme=dark`.
-- Agrupe as seções em colunas usando HTML simples no Markdown (por exemplo, tabelas ou `<div align="center">`) se quiser alinhamento mais parecido ao layout da imagem.
-- Para o card de linguagens colorido (como “Technologies”), use `https://github-readme-stats.vercel.app/api/top-langs`.
+## 🧠 Minha abordagem
+> Crescer com dados → testar rápido → escalar o que funciona.
+
+📈 **Mais ROI**  
+⏱ **Menos repetição manual**  
+🧲 **Mais previsibilidade nas vendas**
 
 ---
 
-## ✅ Próximos passos que eu posso fazer por você (se quiser)
-- Gerar o `README.md` já com o seu **username GitHub** preenchido por mim (me diga seu username que eu atualizo aqui e te entrego o arquivo pronto).
-- Criar badges dinâmicos para YouTube/Instagram com contadores reais (vou precisar dos links exatos).
-- Montar um template de portfólio/landing (HTML/CSS) e domínio fictício/email profissional.
+### ☕ Bora conversar?
+Se você curte performance, dados e tecnologia… vamos trocar ideias 😄  
+> _Networking muda carreiras._
 
 ---
 
-Se quiser, me passe **seu username no GitHub** agora e eu retorno já com o README totalmente preenchido (com os cards funcionando e URLs substituídas). Se preferir, eu gero o arquivo pronto para download.
+### ✅ TO-DO para finalizar o README
+- [ ] Seu username do GitHub
+- [ ] Seu Instagram
+- [ ] Seu LinkedIn
+- [ ] Seu email profissional
+
+Quando me passar esses dados, entrego:
+✅ README completo ajustado  
+✅ Todos os links funcionando  
+✅ Cards 100% sincronizados  
+✅ Badges com contadores reais (seguidores, etc.)  
+✅ Arquivo final para download
