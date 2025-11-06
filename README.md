@@ -46,55 +46,6 @@ Profissional de marketing digital focado em crescimento real: mais clientes, mai
 
 ---
 
-## 📊 Estatísticas do GitHub
-> Esses cards vão atualizar automaticamente conforme seus commits e linguagens reais.
-
-<p align="center">
-  <img height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=midnight-purple"/>
-</p>
-
----
-
-## 📂 Projetos em destaque
-📌 Adicione links reais conforme publicar os repositórios
-
-| Projeto | O que ele faz | Status |
-|--------|----------------|:-----:|
-| **Ads Automation** | Relatórios automáticos + otimização | 🚧 |
-| **Dash Performance** | Indicadores e comparação entre canais | 🚧 |
-| **CRM Connector** | Integra Ads + Analytics + CRM | 🚧 |
-
-> Posso criar junto com você e deixar tudo rodando bonitinho ✅
-
----
-
-## 🧠 Minha abordagem
-> Crescer com dados → testar rápido → escalar o que funciona.
-
-📈 **Mais ROI**  
-⏱ **Menos repetição manual**  
-🧲 **Mais previsibilidade nas vendas**
-
----
-
 ### ☕ Bora conversar?
 Se você curte performance, dados e tecnologia… vamos trocar ideias 😄  
 > _Networking muda carreiras._
-
----
-
-### ✅ TO-DO para finalizar o README
-- [ ] Seu username do GitHub
-- [ ] Seu Instagram
-- [ ] Seu LinkedIn
-- [ ] Seu email profissional
-
-Quando me passar esses dados, entrego:
-✅ README completo ajustado  
-✅ Todos os links funcionando  
-✅ Cards 100% sincronizados  
-✅ Badges com contadores reais (seguidores, etc.)  
-✅ Arquivo final para download
